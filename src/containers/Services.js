@@ -26,7 +26,7 @@ class Services extends Component{
                             <div className="desc">
                                 <h3 className="title">Web Design
                                 </h3>
-                                <p>My passion is building simple, beautiful user experiences.</p>
+                                <p>My passion is building simple, beautiful user experiences. I can help you build an easy-to-use and beautiful website.</p>
                             </div>
                         </div>
                     </div>

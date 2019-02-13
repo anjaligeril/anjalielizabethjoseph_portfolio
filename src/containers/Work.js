@@ -69,8 +69,8 @@ class Work extends Component {
                                 <div className="project img3 " >
                                     <div className="desc ">
                                         <div className="con ">
-                                            <h3><a href="work.html">Work 03</a></h3>
-                                            <span>Illustration</span>
+                                            <h3><a href="https://wordpress.anjalielizabethjoseph.ca/">Food Fiesta</a></h3>
+                                            <span>Website</span>
                                             <p className="icon">
                                                 <span><a href="#"><i className="glyphicon glyphicon-share-alt"></i></a></span>
                                                 <span><a href="#"><i className="glyphicon glyphicon-eye-open"></i> 100</a></span>

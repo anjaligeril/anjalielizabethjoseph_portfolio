@@ -66,19 +66,22 @@ class About extends Component{
                         </div>
                         <div className="  col-lg-6 col-md-6 col-sm-6 ">
 
-                            <div className="text"><h3  className="title">Hi I am <strong>Anjali Elizabeth Joseph..</strong><br/> I am an aspiring web designer and front end developer from Toronto,Canada. I love creating intuitive, dynamic user experiences.
-                                I can help you build an easy-to-use and beautiful website. I can create all kind of websites or online shops, helping you out with your business or project.
-                            </h3></div>
+                            <div className="text descrip"><p  className="title">Hi I am <strong>Anjali Elizabeth Joseph..</strong><br/> I am an aspiring web designer and front end developer from Toronto,Canada. I like creating intuitive, dynamic user experiences. I love CSS, JavaScript which along with other acronyms gives me superpower to develop compelling front-end, intuitive yet minimalistic interfaces, and engaging designs. I work to the principle that Simple is beautiful, while carefully including the finest details and interactions.
+                                 I can create all kind of websites or online shops, helping you out with your business or project.
+                            </p></div>
 
                         </div>
                         <div className="  col-lg-1 col-md-1 col-sm-1 "></div>
+                    </div>
+                        <div className="row">
                         <div className="  col-lg-2 col-md-2 col-sm-2 "></div>
                         <div className="col-lg-8 col-md-8 col-sm-8 skillss" >
                             <h3 className="subheading title">My Skills</h3>
-                            <SkillBar skills={this.SKILLS} animationDuration={1500} animationDelay={1000}/>
+                            <SkillBar skills={this.SKILLS} animationDuration={2000} animationDelay={600}/>
                         </div>
                         <div className="  col-lg-2 col-md-2 col-sm-2 "></div>
-                    </div>
+                        </div>
+
                     <div className="row">
                         <div className="col-lg-12 col-md-12 col-sm-12 " >
                             <div className="hire">
