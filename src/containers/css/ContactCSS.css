@@ -1,0 +1,92 @@
+.contactSection{
+    margin-top:50px;
+    position:relative;
+    margin:0 auto;
+    width:80%;
+    background-color: beige;
+    height:auto;
+    opacity: 0.97;
+    padding:50px 50px 50px 50px;
+}
+
+.contactSection-outer{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-image: url("../images/img3.jpeg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100%
+}
+.contact-feature {
+    text-align: left;
+    width: 100%;
+    float: left;
+    margin-bottom: 40px;
+    position: relative; }
+.contact-feature .contact-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    display: table;
+    text-align: center;
+
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    border-radius: 2px; }
+.contact-feature .contact-icon i {
+    display: table-cell;
+    vertical-align: middle;
+    color: #2c98f0;
+    font-size: 20px;
+    height: 100px; }
+@media screen and (max-width: 1200px) {
+    .contact-feature .contact-icon i {
+        font-size: 20px; } }
+.contact-feature .contact-text {
+    padding-left: 120px;
+    width: 100%; }
+.contact-feature .contact-text h2, .contact-feature .contact-text h3, .contact-feature .contact-text h3 a {
+    margin: 0;
+    padding: 0;
+    color:black;
+    font-size:15px;
+
+}
+.contact-feature .contact-text h3 {
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 14px;
+    letter-spacing: 3px;
+    }
+.contact-feature.contact-feature-sm .contact-text {
+    margin-top: 30px; }
+.contact-feature.contact-feature-sm .contact-icon i {
+    color: #2c98f0;
+    font-size: 25px; }
+@media screen and (max-width: 1200px) {
+    .contact-feature.contact-feature-sm .contact-icon i {
+        font-size: 18px; } }
+
+h4{
+    font-size: 18px;
+    position: relative;
+    font-family: "Playfair Display", Georgia, serif;
+    margin:40px;
+}
+
+.mapouter{
+    text-align:right;
+    height:400px;
+    width:100%;
+}
+.gmapcanvas{
+    overflow: hidden;
+    background: none;
+    height: 400px;
+    width: 100%;
+}

@@ -1,0 +1,135 @@
+/* Position and sizing of burger button */
+.bm-burger-button {
+    position: fixed;
+    width: 30px;
+    height: 25px;
+    left: 36px;
+    top: 36px;
+    z-index: 1000;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+    background: beige;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+    height: 30px;
+    width: 30px;
+    z-index: 1000;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+    background: #bdc3c7;
+    }
+
+/* General sidebar styles */
+.bm-menu {
+
+    padding: 2.5em 1.5em 0;
+    font-size: 1.15em;
+}
+
+
+/* Wrapper for item list */
+.bm-item-list {
+    color: #b8b7ad;
+    padding:5px;
+}
+
+/* Individual item */
+.bm-item {
+    display: inline-block;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+    background: rgba(0, 0, 0, 0);
+}
+
+. menu {
+
+}
+ul {
+    list-style-type: none;
+
+}
+
+li{
+    padding-top:30px;
+}
+.navigation {
+
+    top: 0px;
+    left: 0;
+    display: block;
+    box-sizing: border-box;
+    position: absolute;
+    z-index: 1000;
+
+}
+
+
+.well{
+    height: 800px;
+
+}
+.footer ul {
+    padding-top: 20px;
+    margin: 0; }
+.footer ul li {
+    padding: 0;
+    margin: 0;
+    display: inline;
+    list-style: none; }
+.footer ul li a {
+    color: blue;
+    padding: 4px; }
+.footer ul li a:hover, .footer ul li a:active, .footer ul li a:focus {
+    text-decoration: none;
+    outline: none;
+    color: #2c98f0; }
+
+.head{
+    color:black;
+}
+
+.subheading {
+    font-size: 18px;
+
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 1.8;
+    position: relative; }
+.subheading span {
+    display: block; }
+
+
+.heading-meta {
+
+
+    display: block;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #999999;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
+
+
+.video1{
+
+    top:0;
+
+}
+
+
+.link1{
+    margin-right: 50px;
+}
+
+
+

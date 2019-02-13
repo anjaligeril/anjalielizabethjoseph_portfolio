@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af4ad8ef-c7f1-42f7-b131-e0ddcd315f36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/portfoliolatest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo_transparent.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo_transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Experience.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/PortFolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/SkillsCloud.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Work.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/css/AboutCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/css/Animation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/css/CloudSkillsCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/css/ContactCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/css/ExperienceCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/css/PortfolioCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/css/ServicesCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/css/VerticalTimeLineCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/css/WorkCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/background.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/cv.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/img3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/img4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/profilePic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/project1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/images/project2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="portfoliolatest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/SkillsCloud.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-512">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/css/AboutCSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="110" selection-start-line="110" selection-end-line="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/css/CloudSkillsCSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="107" column="15" selection-start-line="107" selection-start-column="15" selection-end-line="107" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="48" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/css/VerticalTimeLineCSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/css/PortfolioCSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/css/ExperienceCSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/About.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="55" column="70" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/containers/css/WorkCSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="158" column="48" selection-start-line="158" selection-start-column="48" selection-end-line="158" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/css/NavigationCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/NavigationPage.js" />
+        <option value="$PROJECT_DIR$/src/containers/css/FrontCss.css" />
+        <option value="$PROJECT_DIR$/src/containers/css/MainCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/css/style.css" />
+        <option value="$PROJECT_DIR$/src/components/SkillsCloud.js" />
+        <option value="$PROJECT_DIR$/src/components/CloudItem.js" />
+        <option value="$PROJECT_DIR$/src/containers/Main.js" />
+        <option value="$PROJECT_DIR$/src/components/css/SkillsCloudCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/ContactCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/css/verticalCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/css/VerticalTimeLineCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/css/HeaderCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/css/Animation.css" />
+        <option value="$PROJECT_DIR$/src/containers/Education.js" />
+        <option value="$PROJECT_DIR$/src/containers/ImageSlider.js" />
+        <option value="$PROJECT_DIR$/src/containers/css/SkillsCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/css/EducationCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/Skills.js" />
+        <option value="$PROJECT_DIR$/src/containers/Experience.js" />
+        <option value="$PROJECT_DIR$/src/containers/css/ServicesCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/css/ContactCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/Contact.js" />
+        <option value="$PROJECT_DIR$/src/containers/Services.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/containers/PortFolio.js" />
+        <option value="$PROJECT_DIR$/src/containers/css/WorkCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/Work.js" />
+        <option value="$PROJECT_DIR$/src/containers/css/ExperienceCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/SkillsCloud.js" />
+        <option value="$PROJECT_DIR$/src/containers/css/AboutCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/css/PortfolioCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/css/CloudSkillsCSS.css" />
+        <option value="$PROJECT_DIR$/src/containers/About.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PortFolio_2019-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PortFolio_2019-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PortFolio_2019-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PortFolio_2019-master" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PortFolio_2019-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PortFolio_2019-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PortFolio_2019-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PortFolio_2019-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PortFolio_2019-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PortFolio_2019-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react/portfolio" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\anjal\Desktop\Anjali\react\portfoliolatest\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\anjal\Desktop\Anjali\react\portfoliolatest\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anjal\Desktop\Anjali\react\portfoliolatest\src\components\js" />
+      <recent name="C:\Users\anjal\Desktop\Anjali\react\portfoliolatest\src\containers" />
+      <recent name="C:\Users\anjal\Desktop\Anjali\react\portfoliolatest\src\containers\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anjal\Desktop\Anjali\react\portfoliolatest\src\containers\css" />
+      <recent name="C:\Users\anjal\Desktop\Anjali\react\portfoliolatest\src\components" />
+      <recent name="C:\Users\anjal\Desktop\Anjali\react\portfoliolatest\src\containers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af4ad8ef-c7f1-42f7-b131-e0ddcd315f36" name="Default Changelist" comment="" />
+      <created>1545249336713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545249336713</updated>
+      <workItem from="1545249338041" duration="4308000" />
+      <workItem from="1545253693001" duration="7546000" />
+      <workItem from="1545278032466" duration="922000" />
+      <workItem from="1545317636834" duration="8457000" />
+      <workItem from="1545930117291" duration="2490000" />
+      <workItem from="1545932798040" duration="11987000" />
+      <workItem from="1546207306393" duration="18555000" />
+      <workItem from="1546385950373" duration="10819000" />
+      <workItem from="1546455766387" duration="12171000" />
+      <workItem from="1546562854117" duration="10476000" />
+      <workItem from="1546574790490" duration="19035000" />
+      <workItem from="1546632834538" duration="3702000" />
+      <workItem from="1546829480458" duration="3263000" />
+      <workItem from="1546880928058" duration="3258000" />
+      <workItem from="1546902843138" duration="261000" />
+      <workItem from="1546903154879" duration="220000" />
+      <workItem from="1546903471055" duration="3968000" />
+      <workItem from="1546920493780" duration="597000" />
+      <workItem from="1546923231127" duration="19000" />
+      <workItem from="1546989560687" duration="679000" />
+      <workItem from="1547053441055" duration="3378000" />
+      <workItem from="1547059515701" duration="12000" />
+      <workItem from="1547076408190" duration="1195000" />
+      <workItem from="1547121799393" duration="687000" />
+      <workItem from="1547160464390" duration="5579000" />
+      <workItem from="1547480246995" duration="3242000" />
+      <workItem from="1547827010143" duration="76000" />
+      <workItem from="1549994453461" duration="442000" />
+      <workItem from="1549995064798" duration="17232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="154576000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1260" height="640" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25347507" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.3298887" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32480314" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.24939272" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26497892" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.3298887" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/SkillsCloud.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/containers/images/img11.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/containers/images/img4.jpeg" />
+    <entry file="file://$PROJECT_DIR$/src/containers/images/img3.jpeg" />
+    <entry file="file://$PROJECT_DIR$/src/containers/images/img2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/images/img1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/NavigationPage.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/css/NavigationCSS.css" />
+    <entry file="file://$PROJECT_DIR$/src/containers/css/MainCSS.css" />
+    <entry file="file://$PROJECT_DIR$/src/containers/css/FrontCss.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/js/jquery.svg3dtagcloud.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/js/jquery.svg3dtagcloud.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CloudItem.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/css/SkillsCloudCSS.css" />
+    <entry file="file://$PROJECT_DIR$/src/containers/css/verticalCSS.css" />
+    <entry file="file://$PROJECT_DIR$/src/containers/Main.js" />
+    <entry file="file://$USER_HOME$/Documents/New folder (2)/jacekjeznach.com/skills/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#358#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/css/HeaderCSS.css" />
+    <entry file="file://$PROJECT_DIR$/src/containers/ImageSlider.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/css/EducationCSS.css" />
+    <entry file="file://$PROJECT_DIR$/src/containers/Education.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/css/SkillsCSS.css" />
+    <entry file="file://$PROJECT_DIR$/src/containers/Skills.js" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/PortFolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-502">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="83" selection-start-line="64" selection-start-column="83" selection-end-line="64" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/css/ContactCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/css/ServicesCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/css/VerticalTimeLineCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/css/Animation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Work.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="50" column="121" selection-start-line="50" selection-start-column="121" selection-end-line="50" selection-end-column="121" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Experience.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="70" selection-start-line="10" selection-start-column="16" selection-end-line="14" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/css/ExperienceCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/SkillsCloud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-512">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/css/PortfolioCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/css/CloudSkillsCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="107" column="15" selection-start-line="107" selection-start-column="15" selection-end-line="107" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/css/AboutCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="55" column="70" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/css/WorkCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="158" column="48" selection-start-line="158" selection-start-column="48" selection-end-line="158" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
